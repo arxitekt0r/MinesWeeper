@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>icons/1.ico</file>
+        <file>icons/2.ico</file>
+        <file>icons/3.ico</file>
+        <file>icons/4.ico</file>
+        <file>icons/5.ico</file>
+        <file>icons/6.ico</file>
+        <file>icons/7.ico</file>
+        <file>icons/8.ico</file>
+        <file>icons/bomb.ico</file>
+        <file>icons/confused.ico</file>
+        <file>icons/flag.ico</file>
+        <file>icons/home.ico</file>
+        <file>icons/minesweeper.ico</file>
+        <file>icons/opened.ico</file>
+        <file>icons/sad.ico</file>
+        <file>icons/smile.ico</file>
+        <file>icons/unopened.ico</file>
+    </qresource>
+</RCC>
